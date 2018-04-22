@@ -1,7 +1,7 @@
 class Book
   
-  def intialize(title)
+  def initialize(title)
   end
 end
 
-Book.new("And Then There Were None")
+#Book.new("And Then There Were None")
